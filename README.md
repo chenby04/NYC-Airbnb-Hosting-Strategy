@@ -8,7 +8,7 @@ One good way of answering those question is to look into historical listings. In
 - Strategies to price a listing
 - Strategies to name/describe a listing
 
-**For details of the data analysis, read my [Medium Post](https://medium.com/@chenby04/three-data-driven-tips-on-starting-a-profitable-airbnb-business-in-nyc-a57af330a8ec)**
+**For details of the data analysis, read my [Medium Post](https://medium.com/@chenby04/three-data-driven-tips-on-starting-a-profitable-airbnb-business-in-nyc-1b72475df87e)**
 
  
 ## Getting Started
